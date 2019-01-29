@@ -1,2 +1,2 @@
-# ToDoList
-ToDoList App made using React-native and Expo
+# Notepad
+Notepad App made using React-native and Expo
